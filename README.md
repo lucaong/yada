@@ -16,19 +16,14 @@ yada.generate(10) # Generate 10 sentences
 Example output, when trained on Franz Kafka's Metamorphosis:
 
 ```
-I'd get kicked out on the spot. He was still hurriedly thinking all this
-through, unable to decide to get out of the question - but this deterioration in
-his condition was fully (in his opinion) made up for by the door to Gregor's
-room and found herself face to face with him. It showed a lady fitted out with a
-fur hat and fur boa who sat upright, raising a heavy fur muff that covered the
-whole of her lower arm towards the viewer. she could see the dirt as well as he
-could but she had simply decided to leave him to it. And you're also well aware
-that we travellers spend almost the whole year away from the office, so that we
-can very easily fall victim to gossip and chance and groundless complaints, and
-it's almost impossible to defend yourself from that sort of thing, we don't
-usually even hear about them, or if at all it's when we arrive back home
-exhausted from a trip, and that's when we feel the harmful effects of what's
-been going on without even knowing what caused them.
+It was just shrugged her to him. Then, and listen to talk at last glance he
+would excuse their total despair, one arm around the cleaner had never to see
+how Gregor needed a smart blue uniform cap in bed. He could not sleeping a
+lieutenant in the task of the door and filled the chief clerk come and crying.
+It seemed to him over at all around her left, Gregor's back out through the
+contrary I mention this job and no-one had indeed cut off so stubborn; She was
+already looked back comfortably on astonished and he lifted his sister were very
+slowly.
 ```
 
 ## License
